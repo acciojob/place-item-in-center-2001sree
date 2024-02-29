@@ -1,2 +1,7 @@
-
+.holder{
+	background-color: red;
+	width:100px;
+	height:100px;
+	justify-content:center;
+}
 /* Your CSS Code here. */
