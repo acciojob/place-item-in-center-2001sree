@@ -1,8 +1,8 @@
 .item-1{
-	display:flex;
 	background-color: red;
 	width:100px;
 	height:100px;
+	display:flex;
 	justify-content:center;
 }
 /* Your CSS Code here. */
